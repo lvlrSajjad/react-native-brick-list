@@ -1,4 +1,3 @@
-
 {
   "name": "react-native-masonry-brick-list",
   "version": "1.0.3",
@@ -10,20 +9,20 @@
   "keywords": [
     "react-native",
     "sajjad-brick-list",
-	"react-native-masonry",
-	"react-native-list",
-	"react-native-staggered",
+    "react-native-masonry",
+    "react-native-list",
+    "react-native-staggered",
     "brick-list",
     "staggered-grid",
     "staggered",
     "grid",
     "staggered-list",
     "list",
-	"react native list",
-	"react native masonry",
-	"react-native masonry list",
-	"masonry list",
-	"staggered list"
+    "react native list",
+    "react native masonry",
+    "react-native masonry list",
+    "masonry list",
+    "staggered list"
   ],
   "maintainers": [
     {
@@ -31,7 +30,7 @@
       "email": "lvlr.xaus@gmail.com"
     }
   ],
-   "_npmUser": {
+  "_npmUser": {
     "name": "lvlrsajjad",
     "email": "lvlr.xaus@gmail.com"
   },
@@ -44,5 +43,8 @@
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
   }
 }
